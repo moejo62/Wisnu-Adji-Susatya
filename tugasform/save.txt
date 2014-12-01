@@ -1,0 +1,3 @@
+2121221,kusuma,admin,wonogiri,2014-12-07,laki-laki,semarang,islam ,4626424,indonesia,S1
+4444,yuko,user,wonogiri,2014-12-11,laki-laki,solo,islam ,36776836,indonesia,S1
+06791,cahyo,akun,wonogiri,2014-12-10,laki--laki,semarang,islam ,53765465,indonesia,S1
